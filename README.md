@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Yuri Dirickson
 
-<!--
-**ydirickson/ydirickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on migrating legacy Java webapps to a microservices and cloud environments.
+- 🌱 I'm currently studying Spring and Spring Cloud Frameworks.
+- 📫 How to reach me: Through e-mail ydirickson@gmail.com
+- 😄 Pronouns: He/Him (Ele/Dele)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://github.com/ydirickson">
+    <img height="100cm" src="https://github-readme-stats.vercel.app/api?username=ydirickson&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydirickson&layout_compact&langs_count=16&theme=dark" />
+</div>
